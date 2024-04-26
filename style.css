@@ -31,3 +31,11 @@ body {
     font-size: 1em;
     cursor: pointer;
 }
+
+.bottom-link {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 10px;
+  }
+  
